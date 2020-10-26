@@ -117,4 +117,4 @@ This lab provides you with several Rake tasks to help you along the way.
 - `rake console` will load a pry session with your environment loaded to play with the database
 - `rake generate` will run the `generate` method of your site generator once it is made
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/playlister-static-generator-with-ar' title='Static Playlister on ActiveRecord'>Static Playlister on ActiveRecord</a> on Learn.co and start learning to code for free.</p>
+
